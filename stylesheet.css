@@ -1,0 +1,77 @@
+h1 {
+  text-align: center;
+  font-family: Papyrus;
+  background-color: Black;
+  margin: 0;
+  color: white;
+}
+h3 {
+  text-align: center;
+  font-family: Papyrus;
+  margin: 0;
+}
+
+h2 {
+  font-family: Papyrus;
+  margin: 0;
+  text-align: center;
+}
+
+.body {
+  background-color: #BBBBBB;
+  text-align: center;
+}
+
+.bottomimage {
+  text-align: center;
+}
+
+.categories {
+  margin: 0;
+  background-color: #BBBBBB;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.col-3 {
+  flex-basis: 30%;
+  min-width: 250px;
+  margin-right: 30px;
+}
+.col-3 img {
+  height: 50%;
+  flex: 33.33%;
+  margin: 10px;
+
+}
+
+.contact {
+  display: inline;
+}
+
+.conact_boxes {
+  padding-left: 20px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.hours {
+  display: inline;
+}
+
+.row {
+  display: flex;
+  margin-top: 30px;
+}
+
+.title {
+  text-align: center;
+  font-family: Papyrus;
+  margin: 0;
+}
+
+.visit {
+  display: inline;
+}
